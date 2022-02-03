@@ -1,0 +1,71 @@
+body{
+  
+    height: auto;
+    width: 100%;
+}
+
+
+.infoabout{
+    margin-bottom: 100px;
+}
+
+#card-color{
+    background-color: purple;
+}
+
+.col-lg-4{
+    margin-bottom: 30px;
+}
+.font{
+    font-size: 100px;
+    color: wheat;
+}
+.img{
+    width: 450px;
+}
+@media (maxwidth : 990px){
+    .w-25{
+        margin-bottom: 30px !important;
+    }
+    
+}
+.font-1{
+    font-size: 30px;
+    
+}
+footer .row{
+    
+    border-radius: 20px;
+    padding: 20px 20px;
+}
+.icon{
+    font-size: 20px;
+    color: black;
+}
+.decor{
+    list-style: none;
+    margin-top: 10px;
+}
+
+
+.none{
+    display: none;
+}
+.dark{
+    background-color: #333;
+    color: white;
+transition: all 2s;
+}
+.white{
+    background-color: #333;
+    color: white;
+    transition: all 2s;
+}
+
+.colorw{
+    color: white; 
+}
+
+.khara{
+color: black;
+}
